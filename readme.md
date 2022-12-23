@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
+  <img src="https://komarev.com/ghpvc/?username=aaravzer" alt="aaravzer" />
 </p>
 
 <h3>Why, hey there.</h3>
@@ -47,7 +47,8 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
 
-</p>
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravzer&theme=gotham&show_icons=true)
+
 
 
 
