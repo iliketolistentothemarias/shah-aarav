@@ -36,16 +36,16 @@ programming-languages = [
 
 ```
 
-You can find my blog at ___________________
 
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
-
-<p align="center">
-  <a href="mailto:magnifed1234@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aaravzer/count.svg" />
 </p>
 
-<p align="left">
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravzer&theme=gotham&show_icons=true)
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=aaravzer&show_icons=true&theme=gotham&hide=["contribs","issues"])](https://github.com/aaravzer)
+
+
+
 
 
 
