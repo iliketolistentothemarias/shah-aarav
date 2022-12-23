@@ -44,7 +44,7 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
   <a href="mailto:magnifed1234@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
 </p>
 
-<p align="center">
+<p align="left">
 ![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravzer&theme=gotham&show_icons=true)
 
 
