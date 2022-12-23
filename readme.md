@@ -42,7 +42,9 @@ programming-languages = [
   <img src="https://profile-counter.glitch.me/aaravzer/count.svg" />
 </p>
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=aaravzer&show_icons=true&theme=gotham&hide=["contribs","issues"])](https://github.com/aaravzer)
+[![Aarav's github stats](https://github-readme-stats.vercel.app/api?username=aaravzer&show_icons=true&theme=transparent&hide=["contribs","issues"])](https://github.com/aaravzer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravzer&layout=compact&theme=transparent)](https://github.com/aaravzer)
+
 
 
 
