@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aaravzer" alt="aaravzer" />
-</p>
+
 
 <h3>Why, hey there.</h3>
 
