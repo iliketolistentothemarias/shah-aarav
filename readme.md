@@ -1,6 +1,6 @@
 
 
-<h3>Why, hey there.</h3>
+<img src="https://media.giphy.com/media/n3pPJoKv41axX2iXJ4/giphy.gif" width="1000px" height="500px" />
 
 Here's my `Manifest.toml`:
 
