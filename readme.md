@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/n3pPJoKv41axX2iXJ4/giphy.gif" width="1000px" height="500px" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 Here's my `Manifest.toml`:
 
@@ -40,8 +40,8 @@ programming-languages = [
   <img src="https://profile-counter.glitch.me/aaravzer/count.svg" />
 </p>
 
-[![Aarav's github stats](https://github-readme-stats.vercel.app/api?username=aaravzer&show_icons=true&theme=transparent&hide=["contribs","issues"])](https://github.com/aaravzer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravzer&layout=compact&theme=transparent)](https://github.com/aaravzer)
+[![Aarav's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aaravzer&show_icons=true&theme=transparent&hide=["contribs","issues"])](https://github.com/aaravzer)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aaravzer&layout=compact&theme=transparent)](https://github.com/aaravzer)
 
 
 
