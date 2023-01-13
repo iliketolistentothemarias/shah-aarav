@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/n3pPJoKv41axX2iXJ4/giphy.gif" width="1000px" height="500px" />
 
 Here's my `Manifest.toml`:
 
