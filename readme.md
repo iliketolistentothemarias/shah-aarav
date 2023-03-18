@@ -1,12 +1,12 @@
 
 
-<img src="https://media.giphy.com/media/n3pPJoKv41axX2iXJ4/giphy.gif" width="1000px" height="500px" />
 
 Here's my `Manifest.toml`:
 
 ```toml
 
 [personal]
+lastest-project = 'https://aaravlovescodes-distilbert-qa-demo.hf.space'
 name = 'aarav'
 city = 'pittsburg, pa'
 email = 'magnifed1234 "at" gmail.com'
