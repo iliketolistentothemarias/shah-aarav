@@ -15,11 +15,13 @@ interests = [
   'front-end',
   'ai and machine learning',
   'data-science',
+  'malware-development'
 ]
 programming-languages = [
   'python',
   'java',
-  'go'
+  'go',
+  'c/cpp'
 ]
 
 ```
